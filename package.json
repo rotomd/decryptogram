@@ -1,0 +1,18 @@
+{
+    "name": "decryptogram",
+    "version": "0.0.1",
+    "main": "decrypt.js",
+    "description": "A library for solving cryptogram puzzles",
+    "author": {
+        "name": "Michael Rotoloni",
+        "email": "rotomd@gmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/rotomd/decryptogram.git"
+    },
+    "dependencies": {
+        "underscore": "*",
+        "wordlist": "*"
+    }
+}
